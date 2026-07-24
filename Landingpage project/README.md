@@ -43,24 +43,3 @@ landing-page-project/
   shared `--container` width, to keep alignment consistent and avoid
   overlapping elements at any screen size.
 
-## How to customize
-
-- **Copy**: edit text directly in `index.html`.
-- **Branding**: search for "Flowdesk" to replace the product name.
-- **Colors**: change the `--panel`, `--accent`, and `--rose` values in
-  `css/style.css`.
-- **Stats**: adjust `data-count` / `data-suffix` attributes on the
-  `.stat__value` spans in the Stats section.
-- **Nav links / footer links**: update the `href` attributes to point
-  wherever you like.
-
-## Running it
-
-No build step required. Open `index.html` directly in a browser, or
-serve the folder locally:
-
-```bash
-python3 -m http.server 8000
-```
-
-then visit `http://localhost:8000`.
