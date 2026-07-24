@@ -12,6 +12,7 @@ Technologies Used:
 
 HTML
 CSS
+
  2. Landing Page
 
 A visually appealing landing page designed for user engagement and product/service promotion.
@@ -26,6 +27,7 @@ Technologies Used:
 
 HTML
 CSS
+
 3. Calculator
 
 A basic functional calculator that performs arithmetic operations.
